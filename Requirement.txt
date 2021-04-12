@@ -14,3 +14,4 @@ matplotlib==3.3.3
 Werkzeug==0.14.1
 opencv-python==4.1.0.25
 gunicorn==19.9.0
+python==3.7.10
