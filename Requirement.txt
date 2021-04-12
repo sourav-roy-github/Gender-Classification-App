@@ -1,0 +1,16 @@
+Pillow==8.1.0
+scikit-learn==0.24.0
+scipy==1.6.0
+seaborn==0.11.1
+sklearn==0.0
+numpy==1.19.5
+pandas==1.2.0
+pickleshare==0.7.5
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+matplotlib==3.3.3
+Werkzeug==0.14.1
+opencv-python==4.1.0.25
+gunicorn==19.9.0
